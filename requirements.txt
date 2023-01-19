@@ -1,8 +1,6 @@
-scikit-learn==
-streamlit--1.16.0
+scikit-learn==1.1.3
+streamlit==1.16.0
 pandas==1.5.2
-base58--2.0.0
+numpy==1.24.1
 matplotlib==3.6.2
-numpy--1.24.1
-yfinance==0.1.54
-lxml--4.9.1
+seaborn==0.12.2
